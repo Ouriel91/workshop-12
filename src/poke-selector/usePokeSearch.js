@@ -1,4 +1,4 @@
-import React, { useState, useLayoutEffect } from "react";
+import { useState, useLayoutEffect } from "react";
 import { searchByName } from "../api/pokemonApi";
 import { useIsMounted } from "../hooks/useIsMounted";
 
